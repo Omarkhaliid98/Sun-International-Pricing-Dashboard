@@ -2,28 +2,27 @@
 
 An interactive Power BI dashboard to compare room pricing between Sun International hotels and competitors.
 
-## 📊 What it does:
-- Compare Sun vs competitor room prices across hotels
+## 📊 Features:
+- Compare room prices (Sun vs competitors)
 - Filter by hotel name and room type
-- Visual difference between price gaps
-- Toggle between light and dark modes for better presentation
+- Price gap analysis card (auto calculated)
+- Dark & light modes for presentation flexibility
 
-## 🛠 Tools used:
+## 🛠 Tools Used:
 - Power BI
 - DAX
-- Excel (data cleanup and transformation)
+- Excel
 
 ## 📸 Dashboard Preview:
-![Dashboard Cover](cover-image.png)  
-![Dark Mode](dark-mode.png)  
-![Light Mode](light-mode.png)
+![Cover](sun_cover.png)  
+![Dark Mode](sun_dark.png)  
+![Light Mode](sun_light.png)
 
-## 🧠 Goal:
-To automate and visualize price gap analysis and help Sun International optimize room pricing strategies.
+## 🎯 Goal:
+To automate pricing analysis for the tourism sector and help Sun International take better pricing decisions.
 
----
-
-## 🔗 Author
+## 🔗 Author:
 - **Omar Khaled Ahmed**
-- [LinkedIn Profile](https://www.linkedin.com/in/omarkhaliid/)
+- [LinkedIn](https://www.linkedin.com/in/omarkhaliid/)
+
 
